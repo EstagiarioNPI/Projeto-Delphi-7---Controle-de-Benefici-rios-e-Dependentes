@@ -1,0 +1,11 @@
+*.exe
+*.dll
+*.bpl
+*.dcp
+*.dcu
+*.~*
+*.ddp
+*.dof
+*.cfg
+*.local
+*.identcache
